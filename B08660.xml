@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the widdow and children of John Sayer Esq, deceased and William Lightfoot, Gent relating their title to the mannour of Bidstone about to be impeached by a bill brought in before the Lords of Parliament in order to be passed into an act for restoring the Earl of Derby to the said mannor.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08660</idno>
+            <idno type="STC">Wing C1178A</idno>
+            <idno type="STC">ESTC R173493</idno>
+            <idno type="EEBO-CITATION">61296907</idno>
+            <idno type="OCLC">ocm 61296907</idno>
+            <idno type="VID">180489</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08660)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180489)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2831:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the widdow and children of John Sayer Esq, deceased and William Lightfoot, Gent relating their title to the mannour of Bidstone about to be impeached by a bill brought in before the Lords of Parliament in order to be passed into an act for restoring the Earl of Derby to the said mannor.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sayer, John, --  Esq --  Estate.</term>
+               <term>Lightfoot, William, --  gent --  Estate.</term>
+               <term>Steele, William.</term>
+               <term>Derby, Charles Stanley, --  Earl of, 1628-1672.</term>
+               <term>Inheritance and succession --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="conveyance">
+            <pb facs="tcp:180489:1" rendition="simple:additions"/>
+            <head>
+               <hi>The Caſe of the Widdow and Children <hi>OF</hi>
+               </hi> JOHN SAYER <hi>Eſq; Deceaſed, and</hi> WILLIAM LIGHTFOOT, <hi>Gent.</hi> Relating their TITLE to the <hi>Mannour</hi> of <hi>BIDSTONE,</hi> about to be Impeached by a <hi>BILL</hi> brought in before the <hi>Lords</hi> in <hi>Parliament,</hi> in Order to be paſſed into an <hi>Act</hi> for Reſtoring the Earl of <hi>Derby</hi> to the ſaid <hi>Mannour.</hi>
+            </head>
+            <p>BY <hi>INDENT<g ref="char:V">Ʋ</g>RE primo Septembris,</hi> 1653. and <hi>FINE</hi> for Corroborating thereof, the Right Honourable <hi>Charlotte,</hi> Counteſs Dowager of <hi>Derby,</hi> the preſent Earl's Grandmother, and <hi>Charles</hi> Earl of <hi>Derby,</hi> and <hi>Dorothy Henene</hi> Counteſs of <hi>Derby,</hi> the now Earl's Father and Mother, convey the ſaid Mannour of <hi>Bidſtone,</hi> and other Lands in the County <hi>Palatine</hi> of <hi>Cheſter,</hi> to <hi>William Steel,</hi> his Heirs and Aſſigns, to the Uſe of him, his Heirs and Aſſigns for ever: But ſubject to the Joynture of the ſaid Counteſs Dowagers, ſecured by a <hi>Leaſe</hi> for ninety nine Years to <hi>Truſtees</hi> determinable upon her death, with Covenant, That the ſaid Mannour and Premiſes were free from all other Incumbrances, and for enjoyment and further aſſurance.</p>
+            <p>By <hi>Indenture</hi> the <hi>25th. Septembris,</hi> 1655. the ſaid Counteſs Dowager and her Truſtees De<g ref="char:EOLhyphen"/>miſe the ſaid Mannour and Premiſes to <hi>William Steele</hi> for ninety eight years, if ſhe ſhould ſo long live, under the Rent of 300 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> clear of all <hi>Taxes</hi> or <hi>Payments;</hi> and <hi>Steele</hi> enters and en<g ref="char:EOLhyphen"/>joys accordingly, and duely pays the ſaid Rent.</p>
+            <p>In <hi>April</hi> 1662, <hi>William Steele</hi> in conſideration of 6000 <abbr>
+                  <hi>l.</hi>
+               </abbr> Sells and Conveys the ſaid Mannour and Premiſes to <hi>John</hi> Lord <hi>Kingſtone</hi> and his Heirs, but ſubject to the ſaid Rent of 300 <hi>
+                  <abbr>l.</abbr> per Annum;</hi> who likewiſe enters and enjoys, and pays the ſaid Rent during the Life of the ſaid Counteſs Dowager.</p>
+            <p>The ſaid Lord <hi>Kingſtone</hi> Mortgages the ſame for 6000 <abbr>
+                  <hi>l.</hi>
+               </abbr> and being in Poſſeſſion of the Premiſes by his <hi>Will, 9th.</hi> of <hi>March,</hi> 1675, deviſes to ſeveral <hi>Truſtees</hi> therein named, and their Heirs, all his Lands in <hi>England</hi> and <hi>Ireland</hi> in Truſt, to ſell and diſpoſe of ſuch parts thereof as they ſhould think fit, for Payment of his Debts.</p>
+            <p>The <hi>Heir, Truſtees, Executors,</hi> and <hi>Mortgages</hi> of the ſaid Lord <hi>Kingſtone,</hi> by good Conveyances and Aſſurances in the <hi>LAW</hi> in the year 1680: In conſideration of 6260 <abbr>
+                  <hi>l.</hi>
+               </abbr> in Money really and <hi>bona fide</hi> paid, and ſubject to a <hi>Judgment</hi> of 4000 <abbr>
+                  <hi>l.</hi>
+               </abbr> Penalty from the Lord <hi>Kingſtone</hi> to Sir <hi>Robert Vyner,</hi> not yet paid; Sell and Convey the ſaid Mannour and Premiſes to the ſaid <hi>William Lightfoot</hi> and <hi>John Sayer,</hi> Deceaſed; under whoſe <hi>Will</hi> his <hi>Widdow</hi> and <hi>Children</hi> now claim.</p>
+            <div type="note">
+               <head>NOTE,</head>
+               <p>That in the Year 1662, <hi>Charles</hi> Earl of <hi>Derby,</hi> the Father of the preſent Earl, endeavoured to obtain an Act of Parliament to Reſtore him to the Mannor of <hi>Mould</hi> and <hi>Mouldſdale, Hope</hi> and <hi>Hopeſdale,</hi> in the County of <hi>Flint,</hi> but never attempted to be Reſtored to the Mannor of <hi>Bidſtone,</hi> or to Impeach the Purchaſors Title, when the Original Purchaſor, <hi>Steele,</hi> was alive, and in poſ<g ref="char:EOLhyphen"/>ſeſſion; but in <hi>December</hi> 1665, wrote a Letter to the ſaid Lord <hi>Kingſtone,</hi> claiming his Promiſe, that he might be the Purchaſer, or have the Praeemption of the ſaid Mannour, in Caſe his Lordſhip parted with it.</p>
+               <p>But now after all this length of Time, there is a <hi>BILL</hi> brought in before the Lords in <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> to deſtroy a Legal and undoubted. Title by Conveyances and Aſſurances ſolemnly and duly executed; and by a New Law, to take away this Eſtate from Purchaſers who bought at a full vallue, and that too under a Deviſe for Payment of Debts by the <hi>Will</hi> of the Lord <hi>Kingſtone,</hi> who was likewiſe a Purchaſer himſelf for a full Conſideration, and that without the leaſt ſhadow of Fraud or unfair Practice in either of the ſaid Purchaſers, who had not the leaſt reaſon to ſuſpect that any ſuch Matter would ever have been attempted, the ſaid <hi>Charles</hi> Earl of <hi>Derby</hi> acquieſing as to this Mannour when Mr. <hi>Steele</hi> had it in Poſſeſſion, though he ſought to be reſtored to other Mannours and Lands: And yet by the ſaid <hi>BILL</hi> the Original Conveyance is to be taken as a <hi>Mortgage,</hi> and the Purchaſers in Poſſeſſion, who bought it but in 1680, and are meer Strangers to the Tranſactions between <hi>William Steele</hi> and <hi>Charles</hi> Earl of <hi>Derby,</hi> muſt account for the Profit of the Premiſes thirty two years back, and looſe the whole Conſideration Money by them paid; unleſs they ſhould chance to ſave ſome part thereof, by proving that <hi>William Steele,</hi> to whom they are meer Strangers, did two and thirty years ago pay a greater Conſideration than the Profit of the Premiſes from that time till this, will amount to Satisfie.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
